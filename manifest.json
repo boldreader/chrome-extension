@@ -1,0 +1,16 @@
+{
+  "name": "Bold Reader",
+  "description": "Bold Reader Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "/images/b.png"
+    }
+  },
+  "icons": {
+    "128": "/images/b.png"
+  }
+}
